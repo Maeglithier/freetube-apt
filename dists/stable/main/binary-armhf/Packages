@@ -1,0 +1,20 @@
+Package: freetube
+Version: 0.20.0
+License: AGPL-3.0-or-later
+Vendor: PrestonN <FreeTubeApp@protonmail.com>
+Architecture: armhf
+Maintainer: PrestonN <FreeTubeApp@protonmail.com>
+Installed-Size: 198686
+Depends: libgtk-3-0, libnotify4, libnss3, libxss1, libxtst6, xdg-utils, libatspi2.0-0, libuuid1, libsecret-1-0
+Recommends: libappindicator3-1
+Homepage: https://github.com/FreeTubeApp/FreeTube#readme
+Priority: optional
+Section: default
+Filename: pool/main/f/freetube/freetube_0.20.0_armhf.deb
+Size: 67930930
+SHA256: f3f4f03b725a33b7b4712d1d0e1119262587cd6cb2ac634d1d2619e323eacd3d
+SHA1: ee4a6aa9da77d08d2682960aa1dcacf72723fa0e
+MD5sum: 08109cce096140d17b9125c336bba41c
+Description: 
+  A private YouTube client
+
