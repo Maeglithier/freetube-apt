@@ -28,9 +28,12 @@ sudo rm /etc/apt/sources.list.d/freetube.list
 ```
 
 # Checksum
-5a848ff7a9e77a1d285954bf9821fe16021a13180fac852913602936592a7fe2  pool/main/f/freetube/freetube_0.20.0_amd64.deb  
-25efcea433e0e6d0e1995746e01e2d1af0763bb69a4d8640f33d8680ad659afa  pool/main/f/freetube/freetube_0.20.0_arm64.deb  
-f3f4f03b725a33b7b4712d1d0e1119262587cd6cb2ac634d1d2619e323eacd3d  pool/main/f/freetube/freetube_0.20.0_armhf.deb  
+
+5a848ff7a9e77a1d285954bf9821fe16021a13180fac852913602936592a7fe2  pool/main/f/freetube/freetube_0.20.0_amd64.deb
+
+25efcea433e0e6d0e1995746e01e2d1af0763bb69a4d8640f33d8680ad659afa  pool/main/f/freetube/freetube_0.20.0_arm64.deb
+
+f3f4f03b725a33b7b4712d1d0e1119262587cd6cb2ac634d1d2619e323eacd3d  pool/main/f/freetube/freetube_0.20.0_armhf.deb
 
 # Copyright
 O instalador do FreeTube (arquivos deb) são distribuidos sob a licença AGPLv3.
